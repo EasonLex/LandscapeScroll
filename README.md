@@ -9,7 +9,7 @@ $ npm i react-native-landscape-scrollview
 
 Basic usage:
 
-var LandscapeView = require('react-native-landscape-scrollview');
+    var LandscapeView = require('react-native-landscape-scrollview');
 
     // Define a list that you want to render
 
