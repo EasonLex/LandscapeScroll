@@ -28,13 +28,15 @@ let beginDragX = 0;
 class LandscapeView extends React.Component {
 
   static defaultProps = {
-    itemStyle:{ width:        itemWidth,
-                height:       itemHeight,
-                padding:      (width-itemWidth)/3 },
-    itemList:[],
-    contentStyle:{ width:        itemWidth,
-                   height:       itemHeight,
-                   padding:      (width-itemWidth)/3 },
+    itemStyle: { width:        itemWidth,
+                 height:       itemHeight,
+                 padding:      (width-itemWidth)/3 },
+    itemList: [],
+    contentStyle: { width:        itemWidth,
+                    height:       itemHeight,
+                    padding:      (width-itemWidth)/3 },
+    scrollableContent: true,
+    topContent: false,
   };
 
   constructor (props) {
