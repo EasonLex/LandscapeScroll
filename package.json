@@ -1,6 +1,6 @@
 {
   "name": "react-native-landscape-scrollview",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This component include all you need when you have to use landscape swipe with dynamic update contents.",
   "main": "index.js",
   "scripts": {
