@@ -1,0 +1,22 @@
+{
+  "name": "react-native-landscape-scrollview",
+  "version": "0.0.4",
+  "description": "This component include all you need when you have to use landscape swipe with dynamic update contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasonLex/LandscapeScroll.git"
+  },
+  "keywords": [
+    "react-native-landscape-scrollView"
+  ],
+  "author": "Ethan Lin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/EasonLex/LandscapeScroll/issues"
+  },
+  "homepage": "https://github.com/EasonLex/LandscapeScroll#readme"
+}
