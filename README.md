@@ -90,3 +90,8 @@ Basic usage:
     </tr>
     </tbody>
 </table>
+
+
+Example:
+
+<img src="https://bit.ly/2V7Z4ut">
