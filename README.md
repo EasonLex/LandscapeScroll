@@ -1,6 +1,6 @@
 # LandscapeScroll
 
->This component include all you need when you have to use landscape swipewith dynamic update contents.
+>This component include all you need when you have to use landscape swipe with dynamic update contents.
 Easy separate with views and models with customerized components
 
 Installnation:
