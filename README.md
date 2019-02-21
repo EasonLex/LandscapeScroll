@@ -94,4 +94,4 @@ Basic usage:
 
 Example:
 
-![image](https://github.com/EasonLex/LandscapeScroll/blob/master/DEMO.gif)
+![demo gif](https://github.com/EasonLex/LandscapeScroll/blob/master/DEMO.gif)
